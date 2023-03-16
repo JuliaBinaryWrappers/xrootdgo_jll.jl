@@ -1,143 +1,143 @@
 [[xrootdgo]]
 arch = "aarch64"
-git-tree-sha1 = "b22292c39bc889357dc8735487dbad3bb1cd4079"
+git-tree-sha1 = "bdbf2fdf7befc6fa0aabf8cc3aabd6cf351375d1"
 os = "macos"
 
     [[xrootdgo.download]]
-    sha256 = "2eb1d993e7a0ae53be8e52104a7a616e858d4fc4b4745581ac20949460cb18e1"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "7e5b046bfe532237bdd8896648496d9ecadda278499b3ef03453acd87ac415cb"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.aarch64-apple-darwin.tar.gz"
 [[xrootdgo]]
 arch = "aarch64"
-git-tree-sha1 = "3049ef346747788037f0370c55280c1321df89bb"
+git-tree-sha1 = "db02abaa9f674b75171e21f71ce4ae4a289316b5"
 libc = "glibc"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "f4ee32437bcca724c4da7df20ac45e81ff5970d17d1d186c234ed71aff96fbae"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "ba84ab93001fd5f8431c25f3e9745398e58e4677862eef863612cca9145cf261"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.aarch64-linux-gnu.tar.gz"
 [[xrootdgo]]
 arch = "aarch64"
-git-tree-sha1 = "7973d95e106d45056877adbb7260eade7e9e78ff"
+git-tree-sha1 = "172a61d4df88c23cf7acb0e3e1126fd894d7d3b4"
 libc = "musl"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "82c3630f4fb89aa29e88a0699d53d097585adf5174f8fb6d530661163e90c93b"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.aarch64-linux-musl.tar.gz"
+    sha256 = "ea55f882a5de40b8cf29fc5fd003bb010a530971376d95b97298259ec78b57a9"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.aarch64-linux-musl.tar.gz"
 [[xrootdgo]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "381b30253392b7664b0c2c61bb93ca2d1424528e"
+git-tree-sha1 = "8d2871394f3d95f74b29c18072c9a6dd19532337"
 libc = "glibc"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "c87df2b593517fba68c61e64dc8944766aaf355d37b7f957dca1d59165802606"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "4f6f84c054be291dfd97cd6a0152379896ec03116524d3ce703759185f221299"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.armv6l-linux-gnueabihf.tar.gz"
 [[xrootdgo]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "91959364da4423bb341d60ad448c8b96e902fb95"
+git-tree-sha1 = "9a88078046b6f63651667960d780b4537fd42856"
 libc = "musl"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "59e7652584e723c9365cda3c0cc8f80c42233d7dffe456e89ab28890f3a4dd72"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "adeadd62af444c7c952d95a2e1fbcb897e215919ef3cf3e84cba4eb1b25c98b9"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.armv6l-linux-musleabihf.tar.gz"
 [[xrootdgo]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "4a0027b90184621db7b5915c27a96279eeaa5b67"
+git-tree-sha1 = "4a8f7cdf7f3ac8e6e168dbaa8ba82ea3c876d58e"
 libc = "glibc"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "5cf8d3592d6a7c6cb14ff0612bb304d1100d4359cc29a81bc38f7649a616843a"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "f37be9bd96145927bdefadb7f478f9a3b72ede31ebb0ed1499b58e5ad6426085"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.armv7l-linux-gnueabihf.tar.gz"
 [[xrootdgo]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "2594b8ec9918f184b073cf6555a5a1a159262655"
+git-tree-sha1 = "790a6acc2412ff43bdd874e09bb57741a4f454d1"
 libc = "musl"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "90597a4579aa10f4acc08b2a892760b062f28c8f193bd4647cfd3fc1058fa3dc"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4efb96513ee22b2845090918aaf672abb2d1abf64d724aa79663f6d2fa04e489"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.armv7l-linux-musleabihf.tar.gz"
 [[xrootdgo]]
 arch = "i686"
-git-tree-sha1 = "8eb6f9b4c7df3cfabd70c05cd76f14f8096b3cef"
+git-tree-sha1 = "a583e96462cae48a32c7b9c20ab67bcb592e4e15"
 libc = "glibc"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "1ab3240db7785205de935634b76025dc56ba558f363993aac7e4a3a146cb1072"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.i686-linux-gnu.tar.gz"
+    sha256 = "82691f9d842744085f879dad5e87711b57f11d98a7724c8f0f25a94d8f26aec9"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.i686-linux-gnu.tar.gz"
 [[xrootdgo]]
 arch = "i686"
-git-tree-sha1 = "8be7343dfd87afb002c866065926e9fb8a905353"
+git-tree-sha1 = "a652c3de69487f9f8c09bb27d024875d73d93ef1"
 libc = "musl"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "ae86d501132a61dc9628b6d5fba9de21ffd3721b0c3803896ac280fa0a40d2ff"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.i686-linux-musl.tar.gz"
+    sha256 = "c1396dcbc71bb37e41faa14c6d9dd5aff2fdd2e14f9fc346fc1a52e832a0e07a"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.i686-linux-musl.tar.gz"
 [[xrootdgo]]
 arch = "i686"
-git-tree-sha1 = "13dbe6ec27097ed63e32c8321fa833e7e4fdbd6c"
+git-tree-sha1 = "76456acbab79ab164485ecb622c0c123bdef1e13"
 os = "windows"
 
     [[xrootdgo.download]]
-    sha256 = "f10ccd28a859e73ef5afb4461c28acd3e67460d5985d4782cda6c274f3cf3ee8"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.i686-w64-mingw32.tar.gz"
+    sha256 = "d2851f18cd991e92f54c1e5ba034ea7dbae344c9d00be3fcb1f100f3427f54ee"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.i686-w64-mingw32.tar.gz"
 [[xrootdgo]]
 arch = "powerpc64le"
-git-tree-sha1 = "0c9a0ce0e4307eba5d29759ac4af3b36950e1fa7"
+git-tree-sha1 = "5e5e7eb58faf0d997f0e9192aa779314ee60cd8f"
 libc = "glibc"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "d965165bb796e869975af37ef7b271bbb3dde5f3202ca35c7660bb729c59a2e7"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b8a0ccd9db0f21fb5db03e8d76808b68fa9df2173e89b8195eff4a9c9700c331"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.powerpc64le-linux-gnu.tar.gz"
 [[xrootdgo]]
 arch = "x86_64"
-git-tree-sha1 = "9412acc93a349f3c656e817a33a8161407c11c19"
+git-tree-sha1 = "7864568fc6d4ba579dc5f6e4c1a729c0c203610e"
 os = "macos"
 
     [[xrootdgo.download]]
-    sha256 = "bcee9497dfbc1286eb780b8b420b09a915d4bed306c78b703b282de273dcde19"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "e3fb63c7c8612a5daa6dc2bc592ba0a66c1abe16fbc5c4627984a27780432439"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.x86_64-apple-darwin.tar.gz"
 [[xrootdgo]]
 arch = "x86_64"
-git-tree-sha1 = "dc2d151113c33ff3012c0830aefdaa399d440fed"
+git-tree-sha1 = "3a2a6308dbc8957611a663fd94554cf5c672da99"
 libc = "glibc"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "423fe6b03eb68524b573bd868560787e3108993507e87957601c097e065dfc9a"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "05a3289b5c7c90f7d9b08056e34eded1bd357aec02a8ec37c6bc02f0f8a9a8f0"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.x86_64-linux-gnu.tar.gz"
 [[xrootdgo]]
 arch = "x86_64"
-git-tree-sha1 = "b778bdd213dc0af3e6213c4e72d12bcf0fa17c5b"
+git-tree-sha1 = "6a71f73a2d9cc6536f21d5394df96c274cf4e08c"
 libc = "musl"
 os = "linux"
 
     [[xrootdgo.download]]
-    sha256 = "894a87787ea4c9b41054cd98b0decd334a5119e1cdb614ebc866fdbc0787b2a4"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.x86_64-linux-musl.tar.gz"
+    sha256 = "0cfd0bea41ef64c8967a3f791b84eff6bb6710ee649b150b15011ba98f031d6c"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.x86_64-linux-musl.tar.gz"
 [[xrootdgo]]
 arch = "x86_64"
-git-tree-sha1 = "4bdaedf4bc8702905865d85fba29cc16e832b739"
+git-tree-sha1 = "34e3e71cdf5f91d8cdcf6e7787af6aab4026f08e"
 os = "freebsd"
 
     [[xrootdgo.download]]
-    sha256 = "b2f7906c13a39b8a64f6d4c513eb07ac7e2c2db8369ab5d2dc39f70a5f853bb6"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a14a3166164582a7b009889cae79c44cdbc8f76d708246641f921ef70c727ba9"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.x86_64-unknown-freebsd.tar.gz"
 [[xrootdgo]]
 arch = "x86_64"
-git-tree-sha1 = "f885c45dc76a75d7d66db3667aab183f0aef48b3"
+git-tree-sha1 = "afc53eca247ad717309dd9ff9b62d1d9a7f78cb1"
 os = "windows"
 
     [[xrootdgo.download]]
-    sha256 = "e2f39d67bd657bbfc91295fefa83c1ded0e3ff08a072982f110ec9d981f3a121"
-    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.31.1+0/xrootdgo.v0.31.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "6130cbc5add48847ce821e27eb84198af8bfcf1b8355e9f1fd52af12c8cd88be"
+    url = "https://github.com/JuliaBinaryWrappers/xrootdgo_jll.jl/releases/download/xrootdgo-v0.32.1+0/xrootdgo.v0.32.1.x86_64-w64-mingw32.tar.gz"
